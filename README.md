@@ -28,4 +28,4 @@
 
 ### 4
 Рассчитываю среднее количество покупок в неделю по месяцам
-![2023-02-02_16-56-51](https://user-images.githubusercontent.com/122619433/216344393-2cac2599-1cbf-433b-a162-106a4570079e.png)
+![2023-02-02_16-56-51](https://user-images.githubusercontent.com/122619433/216345027-777ddec4-469a-4d16-9aca-31f9fd61dc26.png)
